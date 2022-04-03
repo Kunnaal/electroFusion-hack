@@ -1,4 +1,4 @@
-### For Object detection - animal, person, cones, stop sign, traffic light, road
+### For Object detection - animal, person, cones, stop sign, traffic light, zebra crossing
 For this we have trained a model named as "ObjectDetection.h5" inside the "ObjectDetection" folder.
 To test the object detection mentioned above, run the 2nd section of the  'Main.ipynb' file.
 
